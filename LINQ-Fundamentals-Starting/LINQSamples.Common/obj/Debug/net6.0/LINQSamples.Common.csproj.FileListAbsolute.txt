@@ -1,0 +1,15 @@
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.deps.json
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.dll
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.pdb
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.AssemblyReference.cache
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfoInputs.cache
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfo.cs
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CoreCompileInputs.cache
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CopyComplete
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.dll
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\refint\LINQSamples.Common.dll
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.pdb
+C:\Users\dayaa\source\repos\LINQFundamentalsCSharp10\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\ref\LINQSamples.Common.dll
